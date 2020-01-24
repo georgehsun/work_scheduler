@@ -1,9 +1,13 @@
+
+
+
+
 # work_scheduler
 
 HOMEWORK: WORK SCHEDULE
 By: George Sun
 
-This homework is used for organizing your day and making sure you get your stuff done on time!
+This page is used for organizing your day and making sure you get your stuff done on time! If the user clicks on the save button on the right, it should be able to save even when the user refreshes the page! The diffrent color will resprent the time if it is the past, present, or the future.
 
 
 
@@ -21,3 +25,8 @@ MOMENT.JS: this contains your current date.
 
 ## deployment 
 file:///Users/georgesun/Desktop/work_scheduler/index.html
+
+
+## resourses 
+ *https://stackoverflow.com/
+ *https://momentjs.com/
